@@ -576,7 +576,7 @@ body {
 	overflow: hidden;
 	color:#333;
 	font-size:14px;
-	font-family:'Spoqa Han Sans Neo', 'Source Sans Pro', 'Nanum Gothic','굴림', Gulim, AppleSDGothicNeo, "Apple SD 산돌고딕 Neo", Helvetica, Verdana, sans-serif;
+	font-family:'Spoqa Han Sans Neo';
 }
 
 img {
@@ -596,7 +596,7 @@ h1, h2, h3, h4, h5, h6 {
 input, button {
 	padding: 0;
 	margin: 0;
-	font-family:'Nanum Gothic','굴림', Gulim, AppleSDGothicNeo, "Apple SD 산돌고딕 Neo", Helvetica, Verdana, Arial, sans-serif;
+	font-family:'Spoqa Han Sans Neo';
 }
 
 caption, .hidden, #skip {

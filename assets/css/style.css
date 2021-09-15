@@ -65,11 +65,13 @@ input{
 }
 .login-wrap .header .logo{
     margin: 0 auto;
-    width: 104px;
+    width: 120px;
     height: 40px;
+    text-align: center;
 }
 .login-wrap .header .logo a{
     display:  block;
+    font-weight: normal;
 }
 .easing-input{
     max-width: 270px;
