@@ -31,8 +31,8 @@ html, body{min-height:100%;}
 [data-svg-content]{width: 100%;height: 100%;}
 
 .post-list{padding-bottom: 50px;}
-.post-list .post{position: relative;padding:15px 15px 15px 115px;border:1px solid #ccc;border-radius:10px;}
-.post-list .post>a{display: block;}
+.post-list .post{border:1px solid #ccc;border-radius:10px;}
+.post-list .post>a{display: block;position: relative;padding:15px 15px 15px 115px;}
 .post-list .post+.post{margin-top: 10px;}
 .post-list .item-img{position: absolute;top:15px;left:15px;}
 .post-list .item-img img{width: 87px;height:87px;}
